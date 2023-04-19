@@ -1,32 +1,3 @@
-<a name="readme-top"></a>
-
-
-<div align="center">
-<!-- Title: -->
-<h1><a href="https://github.com/skthati/Guess-the-state/">Guess the State</a> - Python Turtle </h1>
-</div>
-
-<!-- Table of contents -->
-<hr>
-<hr>
-<ol>
-    <li><a href="#guess-state">Guess the State in USA</a></li>
-    <li><a href="#bloopers">Bloopers</a></li>
-</ol>
-<hr>
-<hr>
-
-
-# Guess the state
- Guess the states from USA, Using python Turtle.
- * User input the state name
- * Check if state is present
- * If correct, increase the score.
-
-
-
-Code
-```Python
 import pandas
 import random
 from turtle import Turtle, Screen
@@ -75,45 +46,12 @@ while game_state:
     # row_lst = list(row_lst)
     # print(row_lst)
 
+
+
+
+
+
+
+
 s.mainloop()
 
-
-```
-
-Output
-
-![Alt text](guess.gif)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<hr>  
-
- ## Bloopers <a name="bloopers"></a>
-
- <!--
-```Python
-
-``` 
--->
-<!-- 
-
-Test1  
-## Test <a name="test"></a>
-Test Test
-
-1. Code
-    ```Python
-    sc.onkey(key="Up", fun=up_move)
-    sc.onkey(key="Right", fun=right_move)
-    sc.onkey(key="Left", fun=left_move)
-    sc.onkey(key="Down", fun=down_move)
-    ```
-
-2. Output
-
-    ![Alt text](images/snake_working.gif)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<hr>  
-
-
--->
