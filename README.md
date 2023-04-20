@@ -18,11 +18,14 @@
 
 
 # Guess the state
+
  Guess the states from USA, Using python Turtle.
  * User input the state name
  * Check if state is present
  * If correct, increase the score.
 
+
+The same logic can be implemented to many other game or knowledge ideas.
 
 
 Code
